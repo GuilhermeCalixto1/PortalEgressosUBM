@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a modern, visually enhanced website template designed to improve user experience and appeal for businesses seeking a sleek online presence.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
